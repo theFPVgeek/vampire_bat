@@ -39,7 +39,7 @@ like so:
 4. Edit the main README.md of the Mod
     - Navigate back to the Mod folder you made your Mod for. Edit this file and add your mod to the alphabetic table by adding a new line with `| Creator | [Mod title](link) | Description | | :x: | :x: |`
     - The `link` for the `[Mod title](link)` should look like that: `./YourNickname/YourModName` just like you did above
-    - Example: `| theFPVgeek | [Modifius](./zuncho3d/Modifius) | Modifius adds ...  | :grey_question: | :grey_question: |`
+    - Example: `| zruncho3d | [Modifius](./zruncho3d/Modifius) | Modifius adds ...  | :grey_question: | :grey_question: |`
     - Note `Modifius` is just an idea, yours may be called `Adaption to bearing size xy`
 
 5. Submit the Pullrequest
@@ -61,6 +61,6 @@ To add your work create a folder that has the following structure:
         - Nickname Subfolder eg. `zruncho3d`
             - Modname Subfolder eg. `Modifius`
             - Modname Subfolder eg. `Modimedi`
-        - Nickname Subfolder eg. `theFPVgeek`
+        - Nickname Subfolder eg. `subzruncho3d`
             - Modname Subfolder eg. `Mod_A`
             - Modname Subfolder eg. `Mod_B`
