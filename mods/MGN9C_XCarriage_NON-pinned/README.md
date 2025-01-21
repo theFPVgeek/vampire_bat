@@ -8,4 +8,6 @@ Benefits:
 - Full X travel using a non-pinned X-carriage
 - Slightly reduced weight with a narrower linear rail carriage/block
 
+![2025-01-21_17-45-34](https://github.com/user-attachments/assets/b2fbdb6c-8f2a-4beb-ad8e-037eb8d034d2)
 
+![2025-01-21_17-46-32](https://github.com/user-attachments/assets/6f24ad25-7f15-4a46-99a1-7aa2ac3a85a1)
