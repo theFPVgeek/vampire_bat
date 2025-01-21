@@ -18,7 +18,7 @@ like so:
 
 | Creator | Mod title | Description | Vampire Bat | Other PFA |
 | --- | --- | --- | --- | --- | 
-| theFPVgeek | [MGN9C X-Carriage](./theFPVgeek/MGN9C_XCarriage_NON-pinned) | Modified Micron / SaladFork X-carriage for Vampire Bat & MGN9C | :heavy_check_mark: | :?: |
+| theFPVgeek | [MGN9C X-Carriage](./theFPVgeek/MGN9C_XCarriage_NON-pinned) | Modified Micron / SaladFork X-carriage for Vampire Bat & MGN9C | :heavy_check_mark: | :grey_question: |
 
 ## How to create a pull request 
 
